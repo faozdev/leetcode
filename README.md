@@ -1,2 +1,4 @@
-# leetcode
-leetcode algorithm solutions
+# Leetcode Algorithm Solutions
+
+| Solutions Counter | 6   |
+| --                |:---:|
